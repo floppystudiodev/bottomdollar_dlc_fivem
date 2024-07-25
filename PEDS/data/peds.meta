@@ -1,0 +1,1132 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CPedModelInfo__InitDataList>
+  <residentTxd>comp_peds_generic</residentTxd>
+  <residentAnims />
+  <InitDatas>
+    <Item>
+      <Name>CSB_Maude_02</Name>
+      <PropsName>null</PropsName>
+      <ClipDictionaryName>move_f@generic</ClipDictionaryName>
+      <BlendShapeFileName>null</BlendShapeFileName>
+      <ExpressionSetName />
+      <ExpressionDictionaryName>CSB_Maude_02</ExpressionDictionaryName>
+      <ExpressionName>CSB_Maude_02</ExpressionName>
+      <Pedtype>CIVFEMALE</Pedtype>
+      <MovementClipSet>move_f@fat@a</MovementClipSet>
+      <StrafeClipSet>move_ped_strafing</StrafeClipSet>
+      <MovementToStrafeClipSet>move_ped_to_strafe</MovementToStrafeClipSet>
+      <InjuredStrafeClipSet>move_strafe_injured</InjuredStrafeClipSet>
+      <FullBodyDamageClipSet>dam_ko</FullBodyDamageClipSet>
+      <AdditiveDamageClipSet>dam_ad</AdditiveDamageClipSet>
+      <DefaultGestureClipSet>ANIM_GROUP_GESTURE_F_GENERIC</DefaultGestureClipSet>
+      <FacialClipsetGroupName>facial_clipset_group_gen_female</FacialClipsetGroupName>
+      <DefaultVisemeClipSet>ANIM_GROUP_VISEMES_F_LO</DefaultVisemeClipSet>
+      <SidestepClipSet>CLIP_SET_ID_INVALID</SidestepClipSet>
+      <PoseMatcherName>Male</PoseMatcherName>
+      <PoseMatcherProneName>Male_prone</PoseMatcherProneName>
+      <GetupSetHash>NMBS_SLOW_GETUPS</GetupSetHash>
+      <CreatureMetadataName>null</CreatureMetadataName>
+      <DecisionMakerName>DEFAULT</DecisionMakerName>
+      <MotionTaskDataSetName>STANDARD_PED</MotionTaskDataSetName>
+      <DefaultTaskDataSetName>STANDARD_PED</DefaultTaskDataSetName>
+      <PedCapsuleName>STANDARD_FEMALE</PedCapsuleName>
+      <PedLayoutName />
+      <PedComponentSetName />
+      <PedComponentClothName />
+      <PedIKSettingsName />
+      <TaskDataName />
+      <IsStreamedGfx value="false" />
+      <AmbulanceShouldRespondTo value="true" />
+      <CanRideBikeWithNoHelmet value="false" />
+      <CanSpawnInCar value="true" />
+      <IsHeadBlendPed value="false" />
+      <bOnlyBulkyItemVariations value="false" />
+      <RelationshipGroup>CIVFEMALE</RelationshipGroup>
+      <NavCapabilitiesName>STANDARD_PED</NavCapabilitiesName>
+      <PerceptionInfo>DEFAULT_PERCEPTION</PerceptionInfo>
+      <DefaultBrawlingStyle>BS_AI</DefaultBrawlingStyle>
+      <DefaultUnarmedWeapon>WEAPON_UNARMED</DefaultUnarmedWeapon>
+      <Personality>Streamed_Female</Personality>
+      <CombatInfo>DEFAULT</CombatInfo>
+      <VfxInfoName>VFXPEDINFO_HUMAN_GENERIC</VfxInfoName>
+      <AmbientClipsForFlee>FLEE</AmbientClipsForFlee>
+      <Radio1>RADIO_GENRE_POP</Radio1>
+      <Radio2>RADIO_GENRE_DANCE</Radio2>
+      <FUpOffset value="0.000000" />
+      <RUpOffset value="0.000000" />
+      <FFrontOffset value="0.000000" />
+      <RFrontOffset value="0.147000" />
+      <MinActivationImpulse value="20.000000" />
+      <Stubble value="0.000000" />
+      <HDDist value="3.000000" />
+      <TargetingThreatModifier value="1.000000" />
+      <KilledPerceptionRangeModifer value="-1.000000" />
+      <Sexiness />
+      <Age value="0" />
+      <MaxPassengersInCar value="0" />
+      <ExternallyDrivenDOFs />
+      <PedVoiceGroup>SILENT_PVG</PedVoiceGroup>
+      <AnimalAudioObject />
+      <AbilityType>SAT_NONE</AbilityType>
+      <ThermalBehaviour>TB_WARM</ThermalBehaviour>
+      <SuperlodType>SLOD_HUMAN</SuperlodType>
+      <ScenarioPopStreamingSlot>SCENARIO_POP_STREAMING_NORMAL</ScenarioPopStreamingSlot>
+      <DefaultSpawningPreference>DSP_NORMAL</DefaultSpawningPreference>
+      <DefaultRemoveRangeMultiplier value="1.000000" />
+      <AllowCloseSpawning value="false" />
+    </Item>
+	<Item>
+	  <Name>IG_MaudeBF</Name>
+	  <PropsName>IG_MaudeBF_p</PropsName>
+	  <ClipDictionaryName>move_m@generic</ClipDictionaryName>
+	  <BlendShapeFileName>null</BlendShapeFileName>
+	  <ExpressionSetName>expr_set_ambient_male</ExpressionSetName>
+	  <ExpressionDictionaryName>null</ExpressionDictionaryName>
+	  <ExpressionName>null</ExpressionName>
+	  <Pedtype>CIVMALE</Pedtype>
+	  <MovementClipSet>move_m@generic</MovementClipSet>
+	  <StrafeClipSet>move_ped_strafing</StrafeClipSet>
+	  <MovementToStrafeClipSet>move_ped_to_strafe</MovementToStrafeClipSet>
+	  <InjuredStrafeClipSet>move_strafe_injured</InjuredStrafeClipSet>
+	  <FullBodyDamageClipSet>dam_ko</FullBodyDamageClipSet>
+	  <AdditiveDamageClipSet>dam_ad</AdditiveDamageClipSet>
+	  <DefaultGestureClipSet>ANIM_GROUP_GESTURE_M_GENERIC</DefaultGestureClipSet>
+	  <FacialClipsetGroupName>facial_clipset_group_gen_male</FacialClipsetGroupName>
+	  <DefaultVisemeClipSet>ANIM_GROUP_VISEMES_M_LO</DefaultVisemeClipSet>
+	  <SidestepClipSet>CLIP_SET_ID_INVALID</SidestepClipSet>
+	  <PoseMatcherName>Male</PoseMatcherName>
+	  <PoseMatcherProneName>Male_prone</PoseMatcherProneName>
+	  <GetupSetHash>NMBS_SLOW_GETUPS</GetupSetHash>
+	  <CreatureMetadataName>null</CreatureMetadataName>
+	  <DecisionMakerName>DEFAULT</DecisionMakerName>
+	  <MotionTaskDataSetName>STANDARD_PED</MotionTaskDataSetName>
+	  <DefaultTaskDataSetName>STANDARD_PED</DefaultTaskDataSetName>
+	  <PedCapsuleName>STANDARD_MALE</PedCapsuleName>
+	  <PedLayoutName />
+	  <PedComponentSetName />
+	  <PedComponentClothName />
+	  <PedIKSettingsName />
+	  <TaskDataName />
+	  <IsStreamedGfx value="false" />
+	  <AmbulanceShouldRespondTo value="true" />
+	  <CanRideBikeWithNoHelmet value="false" />
+	  <CanSpawnInCar value="true" />
+	  <IsHeadBlendPed value="false" />
+	  <bOnlyBulkyItemVariations value="false" />
+	  <RelationshipGroup>CIVMALE</RelationshipGroup>
+	  <NavCapabilitiesName>STANDARD_PED</NavCapabilitiesName>
+	  <PerceptionInfo>DEFAULT_PERCEPTION</PerceptionInfo>
+	  <DefaultBrawlingStyle>BS_AI</DefaultBrawlingStyle>
+	  <DefaultUnarmedWeapon>WEAPON_UNARMED</DefaultUnarmedWeapon>
+	  <Personality>SERVICEMALES</Personality>
+	  <CombatInfo>DEFAULT</CombatInfo>
+	  <VfxInfoName>VFXPEDINFO_HUMAN_GENERIC</VfxInfoName>
+	  <AmbientClipsForFlee>FLEE</AmbientClipsForFlee>
+	  <Radio1>RADIO_GENRE_UNSPECIFIED</Radio1>
+	  <Radio2>RADIO_GENRE_UNSPECIFIED</Radio2>
+	  <FUpOffset value="0.000000" />
+	  <RUpOffset value="0.000000" />
+	  <FFrontOffset value="0.000000" />
+	  <RFrontOffset value="0.147000" />
+	  <MinActivationImpulse value="20.000000" />
+	  <Stubble value="0.000000" />
+	  <HDDist value="3.000000" />
+	  <TargetingThreatModifier value="1.000000" />
+	  <KilledPerceptionRangeModifer value="-1.000000" />
+	  <Sexiness />
+	  <Age value="0" />
+	  <MaxPassengersInCar value="0" />
+	  <ExternallyDrivenDOFs />
+	  <PedVoiceGroup>SILENT_MP_PVG</PedVoiceGroup>
+	  <AnimalAudioObject />
+	  <AbilityType>SAT_NONE</AbilityType>
+	  <ThermalBehaviour>TB_WARM</ThermalBehaviour>
+	  <SuperlodType>SLOD_HUMAN</SuperlodType>
+	  <ScenarioPopStreamingSlot>SCENARIO_POP_STREAMING_NORMAL</ScenarioPopStreamingSlot>
+	  <DefaultSpawningPreference>DSP_NORMAL</DefaultSpawningPreference>
+	  <DefaultRemoveRangeMultiplier value="1.000000" />
+	  <AllowCloseSpawning value="false" />
+	</Item>
+    <Item>
+      <Name>CSB_JenetteE</Name>
+      <PropsName>null</PropsName>
+      <ClipDictionaryName>move_f@generic</ClipDictionaryName>
+      <BlendShapeFileName>null</BlendShapeFileName>
+      <ExpressionSetName />
+      <ExpressionDictionaryName>CSB_Denise_friend</ExpressionDictionaryName>
+      <ExpressionName>CSB_Denise_friend</ExpressionName>
+      <Pedtype>CIVFEMALE</Pedtype>
+      <MovementClipSet>move_characters@patricia</MovementClipSet>
+      <StrafeClipSet>move_ped_strafing</StrafeClipSet>
+      <MovementToStrafeClipSet>move_ped_to_strafe</MovementToStrafeClipSet>
+      <InjuredStrafeClipSet>move_strafe_injured</InjuredStrafeClipSet>
+      <FullBodyDamageClipSet>dam_ko</FullBodyDamageClipSet>
+      <AdditiveDamageClipSet>dam_ad</AdditiveDamageClipSet>
+      <DefaultGestureClipSet>ANIM_GROUP_GESTURE_F_GENERIC</DefaultGestureClipSet>
+      <FacialClipsetGroupName>facial_clipset_group_gen_female</FacialClipsetGroupName>
+      <DefaultVisemeClipSet>ANIM_GROUP_VISEMES_F_LO</DefaultVisemeClipSet>
+      <SidestepClipSet>CLIP_SET_ID_INVALID</SidestepClipSet>
+      <PoseMatcherName>Male</PoseMatcherName>
+      <PoseMatcherProneName>Male_prone</PoseMatcherProneName>
+      <GetupSetHash>NMBS_SLOW_GETUPS</GetupSetHash>
+      <CreatureMetadataName>null</CreatureMetadataName>
+      <DecisionMakerName>DEFAULT</DecisionMakerName>
+      <MotionTaskDataSetName>STANDARD_PED</MotionTaskDataSetName>
+      <DefaultTaskDataSetName>STANDARD_PED</DefaultTaskDataSetName>
+      <PedCapsuleName>STANDARD_FEMALE</PedCapsuleName>
+      <PedLayoutName />
+      <PedComponentSetName />
+      <PedComponentClothName />
+      <PedIKSettingsName />
+      <TaskDataName />
+      <IsStreamedGfx value="false" />
+      <AmbulanceShouldRespondTo value="true" />
+      <CanRideBikeWithNoHelmet value="false" />
+      <CanSpawnInCar value="true" />
+      <IsHeadBlendPed value="false" />
+      <bOnlyBulkyItemVariations value="false" />
+      <RelationshipGroup>CIVFEMALE</RelationshipGroup>
+      <NavCapabilitiesName>STANDARD_PED</NavCapabilitiesName>
+      <PerceptionInfo>DEFAULT_PERCEPTION</PerceptionInfo>
+      <DefaultBrawlingStyle>BS_AI</DefaultBrawlingStyle>
+      <DefaultUnarmedWeapon>WEAPON_UNARMED</DefaultUnarmedWeapon>
+      <Personality>Streamed_Female</Personality>
+      <CombatInfo>DEFAULT</CombatInfo>
+      <VfxInfoName>VFXPEDINFO_HUMAN_GENERIC</VfxInfoName>
+      <AmbientClipsForFlee>FLEE</AmbientClipsForFlee>
+      <Radio1>RADIO_GENRE_POP</Radio1>
+      <Radio2>RADIO_GENRE_DANCE</Radio2>
+      <FUpOffset value="0.000000" />
+      <RUpOffset value="0.000000" />
+      <FFrontOffset value="0.000000" />
+      <RFrontOffset value="0.147000" />
+      <MinActivationImpulse value="20.000000" />
+      <Stubble value="0.000000" />
+      <HDDist value="3.000000" />
+      <TargetingThreatModifier value="1.000000" />
+      <KilledPerceptionRangeModifer value="-1.000000" />
+      <Sexiness />
+      <Age value="0" />
+      <MaxPassengersInCar value="0" />
+      <ExternallyDrivenDOFs />
+      <PedVoiceGroup>SILENT_CUTSCENE_PVG</PedVoiceGroup>
+      <AnimalAudioObject />
+      <AbilityType>SAT_NONE</AbilityType>
+      <ThermalBehaviour>TB_WARM</ThermalBehaviour>
+      <SuperlodType>SLOD_HUMAN</SuperlodType>
+      <ScenarioPopStreamingSlot>SCENARIO_POP_STREAMING_NORMAL</ScenarioPopStreamingSlot>
+      <DefaultSpawningPreference>DSP_NORMAL</DefaultSpawningPreference>
+      <DefaultRemoveRangeMultiplier value="1.000000" />
+      <AllowCloseSpawning value="false" />
+    </Item>
+    <Item>
+      <Name>IG_JenetteE</Name>
+      <PropsName>null</PropsName>
+      <ClipDictionaryName>move_f@generic</ClipDictionaryName>
+      <BlendShapeFileName>null</BlendShapeFileName>
+      <ExpressionSetName>expr_set_ambient_female</ExpressionSetName>
+      <ExpressionDictionaryName>null</ExpressionDictionaryName>
+      <ExpressionName>null</ExpressionName>
+      <Pedtype>CIVFEMALE</Pedtype>
+      <MovementClipSet>move_f@generic</MovementClipSet>
+      <StrafeClipSet>move_ped_strafing</StrafeClipSet>
+      <MovementToStrafeClipSet>move_ped_to_strafe</MovementToStrafeClipSet>
+      <InjuredStrafeClipSet>move_strafe_injured</InjuredStrafeClipSet>
+      <FullBodyDamageClipSet>dam_ko</FullBodyDamageClipSet>
+      <AdditiveDamageClipSet>dam_ad</AdditiveDamageClipSet>
+      <DefaultGestureClipSet>ANIM_GROUP_GESTURE_F_GENERIC</DefaultGestureClipSet>
+      <FacialClipsetGroupName>facial_clipset_group_gen_female</FacialClipsetGroupName>
+      <DefaultVisemeClipSet>ANIM_GROUP_VISEMES_F_LO</DefaultVisemeClipSet>
+      <SidestepClipSet>CLIP_SET_ID_INVALID</SidestepClipSet>
+      <PoseMatcherName>Male</PoseMatcherName>
+      <PoseMatcherProneName>Male_prone</PoseMatcherProneName>
+      <GetupSetHash>NMBS_SLOW_GETUPS</GetupSetHash>
+      <CreatureMetadataName>ambientPed_upperWrinkles</CreatureMetadataName>
+      <DecisionMakerName>DEFAULT</DecisionMakerName>
+      <MotionTaskDataSetName>STANDARD_PED</MotionTaskDataSetName>
+      <DefaultTaskDataSetName>STANDARD_PED</DefaultTaskDataSetName>
+      <PedCapsuleName>STANDARD_FEMALE</PedCapsuleName>
+      <PedLayoutName />
+      <PedComponentSetName />
+      <PedComponentClothName />
+      <PedIKSettingsName />
+      <TaskDataName />
+      <IsStreamedGfx value="false" />
+      <AmbulanceShouldRespondTo value="true" />
+      <CanRideBikeWithNoHelmet value="false" />
+      <CanSpawnInCar value="true" />
+      <IsHeadBlendPed value="false" />
+      <bOnlyBulkyItemVariations value="false" />
+      <RelationshipGroup>CIVFEMALE</RelationshipGroup>
+      <NavCapabilitiesName>STANDARD_PED</NavCapabilitiesName>
+      <PerceptionInfo>DEFAULT_PERCEPTION</PerceptionInfo>
+      <DefaultBrawlingStyle>BS_AI</DefaultBrawlingStyle>
+      <DefaultUnarmedWeapon>WEAPON_UNARMED</DefaultUnarmedWeapon>
+      <Personality>YOUNGRICHWOMAN</Personality>
+      <CombatInfo>DEFAULT</CombatInfo>
+      <VfxInfoName>VFXPEDINFO_HUMAN_GENERIC</VfxInfoName>
+      <AmbientClipsForFlee>FLEE</AmbientClipsForFlee>
+      <Radio1>RADIO_GENRE_DANCE</Radio1>
+      <Radio2>RADIO_GENRE_POP</Radio2>
+      <FUpOffset value="0.000000" />
+      <RUpOffset value="0.000000" />
+      <FFrontOffset value="0.000000" />
+      <RFrontOffset value="0.147000" />
+      <MinActivationImpulse value="20.000000" />
+      <Stubble value="0.000000" />
+      <HDDist value="3.000000" />
+      <TargetingThreatModifier value="1.000000" />
+      <KilledPerceptionRangeModifer value="-1.000000" />
+      <Sexiness>SF_HOT_PERSON</Sexiness>
+      <Age value="0" />
+      <MaxPassengersInCar value="0" />
+      <ExternallyDrivenDOFs />
+	  <PedVoiceGroup>S24_JENETTE_PVG</PedVoiceGroup>
+      <AnimalAudioObject />
+      <AbilityType>SAT_NONE</AbilityType>
+      <ThermalBehaviour>TB_WARM</ThermalBehaviour>
+      <SuperlodType>SLOD_HUMAN</SuperlodType>
+      <ScenarioPopStreamingSlot>SCENARIO_POP_STREAMING_NORMAL</ScenarioPopStreamingSlot>
+      <DefaultSpawningPreference>DSP_NORMAL</DefaultSpawningPreference>
+      <DefaultRemoveRangeMultiplier value="1.000000" />
+      <AllowCloseSpawning value="false" />
+    </Item>
+	<Item>
+	  <Name>IG_BountyTarget_01</Name>
+	  <PropsName>IG_BountyTarget_01_p</PropsName>
+	  <ClipDictionaryName>move_f@generic</ClipDictionaryName>
+	  <BlendShapeFileName>null</BlendShapeFileName>
+	  <ExpressionSetName>expr_set_ambient_female</ExpressionSetName>
+	  <ExpressionDictionaryName>null</ExpressionDictionaryName>
+	  <ExpressionName>null</ExpressionName>
+	  <Pedtype>CIVFEMALE</Pedtype>
+	  <MovementClipSet>move_f@generic</MovementClipSet>
+	  <StrafeClipSet>move_ped_strafing</StrafeClipSet>
+	  <MovementToStrafeClipSet>move_ped_to_strafe</MovementToStrafeClipSet>
+	  <InjuredStrafeClipSet>move_strafe_injured</InjuredStrafeClipSet>
+	  <FullBodyDamageClipSet>dam_ko</FullBodyDamageClipSet>
+	  <AdditiveDamageClipSet>dam_ad</AdditiveDamageClipSet>
+	  <DefaultGestureClipSet>ANIM_GROUP_GESTURE_F_GENERIC</DefaultGestureClipSet>
+	  <FacialClipsetGroupName>facial_clipset_group_gen_female</FacialClipsetGroupName>
+	  <DefaultVisemeClipSet>ANIM_GROUP_VISEMES_F_LO</DefaultVisemeClipSet>
+	  <SidestepClipSet>CLIP_SET_ID_INVALID</SidestepClipSet>
+	  <PoseMatcherName>Male</PoseMatcherName>
+	  <PoseMatcherProneName>Male_prone</PoseMatcherProneName>
+	  <GetupSetHash>NMBS_SLOW_GETUPS</GetupSetHash>
+	  <CreatureMetadataName>null</CreatureMetadataName>
+	  <DecisionMakerName>DEFAULT</DecisionMakerName>
+	  <MotionTaskDataSetName>STANDARD_PED</MotionTaskDataSetName>
+	  <DefaultTaskDataSetName>STANDARD_PED</DefaultTaskDataSetName>
+	  <PedCapsuleName>STANDARD_FEMALE</PedCapsuleName>
+	  <PedLayoutName />
+	  <PedComponentSetName />
+	  <PedComponentClothName />
+	  <PedIKSettingsName />
+	  <TaskDataName />
+	  <IsStreamedGfx value="false" />
+	  <AmbulanceShouldRespondTo value="true" />
+	  <CanRideBikeWithNoHelmet value="false" />
+	  <CanSpawnInCar value="true" />
+	  <IsHeadBlendPed value="false" />
+	  <bOnlyBulkyItemVariations value="false" />
+	  <RelationshipGroup>CIVFEMALE</RelationshipGroup>
+	  <NavCapabilitiesName>STANDARD_PED</NavCapabilitiesName>
+	  <PerceptionInfo>DEFAULT_PERCEPTION</PerceptionInfo>
+	  <DefaultBrawlingStyle>BS_AI</DefaultBrawlingStyle>
+	  <DefaultUnarmedWeapon>WEAPON_UNARMED</DefaultUnarmedWeapon>
+	  <Personality>SERVICEFEMALES</Personality>
+	  <CombatInfo>DEFAULT</CombatInfo>
+	  <VfxInfoName>VFXPEDINFO_HUMAN_GENERIC</VfxInfoName>
+	  <AmbientClipsForFlee>FLEE</AmbientClipsForFlee>
+	  <Radio1>RADIO_GENRE_UNSPECIFIED</Radio1>
+	  <Radio2>RADIO_GENRE_UNSPECIFIED</Radio2>
+	  <FUpOffset value="0.000000" />
+	  <RUpOffset value="0.000000" />
+	  <FFrontOffset value="0.000000" />
+	  <RFrontOffset value="0.147000" />
+	  <MinActivationImpulse value="20.000000" />
+	  <Stubble value="0.000000" />
+	  <HDDist value="3.000000" />
+	  <TargetingThreatModifier value="1.000000" />
+	  <KilledPerceptionRangeModifer value="-1.000000" />
+	  <Sexiness />
+	  <Age value="0" />
+	  <MaxPassengersInCar value="0" />
+	  <ExternallyDrivenDOFs />
+	  <PedVoiceGroup>S24_HVTCEO_PVG</PedVoiceGroup>
+	  <AnimalAudioObject />
+	  <AbilityType>SAT_NONE</AbilityType>
+	  <ThermalBehaviour>TB_WARM</ThermalBehaviour>
+	  <SuperlodType>SLOD_HUMAN</SuperlodType>
+	  <ScenarioPopStreamingSlot>SCENARIO_POP_STREAMING_NORMAL</ScenarioPopStreamingSlot>
+	  <DefaultSpawningPreference>DSP_NORMAL</DefaultSpawningPreference>
+	  <DefaultRemoveRangeMultiplier value="1.000000" />
+	  <AllowCloseSpawning value="false" />
+	</Item>
+	<Item>
+	  <Name>IG_BountyTarget_05</Name>
+	  <PropsName>IG_BountyTarget_05_p</PropsName>
+      <ClipDictionaryName>move_f@generic</ClipDictionaryName>
+      <BlendShapeFileName>null</BlendShapeFileName>
+      <ExpressionSetName>null</ExpressionSetName>
+      <ExpressionDictionaryName>A_F_Y_Bevhills_04</ExpressionDictionaryName>
+      <ExpressionName>A_F_Y_Bevhills_04</ExpressionName>
+      <Pedtype>CIVFEMALE</Pedtype>
+      <MovementClipSet>move_f@heels@c</MovementClipSet>
+      <StrafeClipSet>move_ped_strafing</StrafeClipSet>
+      <MovementToStrafeClipSet>move_ped_to_strafe</MovementToStrafeClipSet>
+      <InjuredStrafeClipSet>move_strafe_injured</InjuredStrafeClipSet>
+      <FullBodyDamageClipSet>dam_ko</FullBodyDamageClipSet>
+      <AdditiveDamageClipSet>dam_ad</AdditiveDamageClipSet>
+      <DefaultGestureClipSet>ANIM_GROUP_GESTURE_F_GENERIC</DefaultGestureClipSet>
+      <FacialClipsetGroupName>facial_clipset_group_gen_female</FacialClipsetGroupName>
+      <DefaultVisemeClipSet>ANIM_GROUP_VISEMES_F_LO</DefaultVisemeClipSet>
+      <SidestepClipSet>CLIP_SET_ID_INVALID</SidestepClipSet>
+      <PoseMatcherName>Male</PoseMatcherName>
+      <PoseMatcherProneName>Male_prone</PoseMatcherProneName>
+      <GetupSetHash>NMBS_SLOW_GETUPS</GetupSetHash>
+      <CreatureMetadataName>ambientHeels</CreatureMetadataName>
+      <DecisionMakerName>DEFAULT</DecisionMakerName>
+      <MotionTaskDataSetName>STANDARD_PED</MotionTaskDataSetName>
+      <DefaultTaskDataSetName>STANDARD_PED</DefaultTaskDataSetName>
+      <PedCapsuleName>STANDARD_FEMALE</PedCapsuleName>
+      <PedLayoutName />
+      <PedComponentSetName />
+      <PedComponentClothName />
+      <PedIKSettingsName />
+      <TaskDataName />
+      <IsStreamedGfx value="false" />
+      <AmbulanceShouldRespondTo value="true" />
+      <CanRideBikeWithNoHelmet value="false" />
+      <CanSpawnInCar value="true" />
+      <IsHeadBlendPed value="false" />
+      <bOnlyBulkyItemVariations value="true" />
+      <RelationshipGroup>CIVFEMALE</RelationshipGroup>
+      <NavCapabilitiesName>STANDARD_PED</NavCapabilitiesName>
+      <PerceptionInfo>DEFAULT_PERCEPTION</PerceptionInfo>
+      <DefaultBrawlingStyle>BS_AI</DefaultBrawlingStyle>
+      <DefaultUnarmedWeapon>WEAPON_UNARMED</DefaultUnarmedWeapon>
+      <Personality>YOUNGRICHWOMAN</Personality>
+      <CombatInfo>DEFAULT</CombatInfo>
+      <VfxInfoName>VFXPEDINFO_HUMAN_GENERIC</VfxInfoName>
+      <AmbientClipsForFlee>FLEE</AmbientClipsForFlee>
+      <Radio1>RADIO_GENRE_DANCE</Radio1>
+      <Radio2>RADIO_GENRE_RIGHT_WING_TALK</Radio2>
+      <FUpOffset value="0.000000" />
+      <RUpOffset value="0.000000" />
+      <FFrontOffset value="0.000000" />
+      <RFrontOffset value="0.147000" />
+      <MinActivationImpulse value="20.000000" />
+      <Stubble value="0.000000" />
+      <HDDist value="3.000000" />
+      <TargetingThreatModifier value="1.000000" />
+      <KilledPerceptionRangeModifer value="-1.000000" />
+      <Sexiness>SF_HOT_PERSON</Sexiness>
+      <Age value="0" />
+      <MaxPassengersInCar value="0" />
+      <ExternallyDrivenDOFs>HIGH_HEELS</ExternallyDrivenDOFs>
+      <PedVoiceGroup>S24_HVTMOVIE_PVG</PedVoiceGroup>
+      <AnimalAudioObject />
+      <AbilityType>SAT_NONE</AbilityType>
+      <ThermalBehaviour>TB_WARM</ThermalBehaviour>
+      <SuperlodType>SLOD_HUMAN</SuperlodType>
+      <ScenarioPopStreamingSlot>SCENARIO_POP_STREAMING_NORMAL</ScenarioPopStreamingSlot>
+      <DefaultSpawningPreference>DSP_NORMAL</DefaultSpawningPreference>
+      <DefaultRemoveRangeMultiplier value="1.000000" />
+      <AllowCloseSpawning value="false" />
+    </Item>
+	<Item>
+	  <Name>IG_BountyTarget_02</Name>
+	  <PropsName>IG_BountyTarget_02_p</PropsName>
+	  <ClipDictionaryName>move_m@generic</ClipDictionaryName>
+	  <BlendShapeFileName>null</BlendShapeFileName>
+      <ExpressionSetName />
+	  <ExpressionDictionaryName>Male_MP_Ambient</ExpressionDictionaryName>
+	  <ExpressionName>Male_MP_Ambient</ExpressionName>
+	  <Pedtype>CIVMALE</Pedtype>
+	  <MovementClipSet>move_m@generic</MovementClipSet>
+	  <StrafeClipSet>move_ped_strafing</StrafeClipSet>
+	  <MovementToStrafeClipSet>move_ped_to_strafe</MovementToStrafeClipSet>
+	  <InjuredStrafeClipSet>move_strafe_injured</InjuredStrafeClipSet>
+	  <FullBodyDamageClipSet>dam_ko</FullBodyDamageClipSet>
+	  <AdditiveDamageClipSet>dam_ad</AdditiveDamageClipSet>
+	  <DefaultGestureClipSet>ANIM_GROUP_GESTURE_M_GENERIC</DefaultGestureClipSet>
+	  <FacialClipsetGroupName>facial_clipset_group_gen_male</FacialClipsetGroupName>
+	  <DefaultVisemeClipSet>ANIM_GROUP_VISEMES_M_LO</DefaultVisemeClipSet>
+	  <SidestepClipSet>CLIP_SET_ID_INVALID</SidestepClipSet>
+	  <PoseMatcherName>Male</PoseMatcherName>
+	  <PoseMatcherProneName>Male_prone</PoseMatcherProneName>
+	  <GetupSetHash>NMBS_SLOW_GETUPS</GetupSetHash>
+	  <CreatureMetadataName>null</CreatureMetadataName>
+	  <DecisionMakerName>DEFAULT</DecisionMakerName>
+	  <MotionTaskDataSetName>STANDARD_PED</MotionTaskDataSetName>
+	  <DefaultTaskDataSetName>STANDARD_PED</DefaultTaskDataSetName>
+	  <PedCapsuleName>STANDARD_MALE</PedCapsuleName>
+	  <PedLayoutName />
+	  <PedComponentSetName />
+	  <PedComponentClothName />
+	  <PedIKSettingsName />
+	  <TaskDataName />
+	  <IsStreamedGfx value="false" />
+	  <AmbulanceShouldRespondTo value="true" />
+	  <CanRideBikeWithNoHelmet value="false" />
+	  <CanSpawnInCar value="true" />
+	  <IsHeadBlendPed value="false" />
+	  <bOnlyBulkyItemVariations value="false" />
+	  <RelationshipGroup>CIVMALE</RelationshipGroup>
+	  <NavCapabilitiesName>STANDARD_PED</NavCapabilitiesName>
+	  <PerceptionInfo>DEFAULT_PERCEPTION</PerceptionInfo>
+	  <DefaultBrawlingStyle>BS_AI</DefaultBrawlingStyle>
+	  <DefaultUnarmedWeapon>WEAPON_UNARMED</DefaultUnarmedWeapon>
+	  <Personality>SERVICEMALES</Personality>
+	  <CombatInfo>DEFAULT</CombatInfo>
+	  <VfxInfoName>VFXPEDINFO_HUMAN_GENERIC</VfxInfoName>
+	  <AmbientClipsForFlee>FLEE</AmbientClipsForFlee>
+	  <Radio1>RADIO_GENRE_UNSPECIFIED</Radio1>
+	  <Radio2>RADIO_GENRE_UNSPECIFIED</Radio2>
+	  <FUpOffset value="0.000000" />
+	  <RUpOffset value="0.000000" />
+	  <FFrontOffset value="0.000000" />
+	  <RFrontOffset value="0.147000" />
+	  <MinActivationImpulse value="20.000000" />
+	  <Stubble value="0.000000" />
+	  <HDDist value="3.000000" />
+	  <TargetingThreatModifier value="1.000000" />
+	  <KilledPerceptionRangeModifer value="-1.000000" />
+	  <Sexiness />
+	  <Age value="0" />
+	  <MaxPassengersInCar value="0" />
+	  <ExternallyDrivenDOFs />
+	  <PedVoiceGroup>S24_HVTRESCUE_PVG</PedVoiceGroup>
+	  <AnimalAudioObject />
+	  <AbilityType>SAT_NONE</AbilityType>
+	  <ThermalBehaviour>TB_WARM</ThermalBehaviour>
+	  <SuperlodType>SLOD_HUMAN</SuperlodType>
+	  <ScenarioPopStreamingSlot>SCENARIO_POP_STREAMING_NORMAL</ScenarioPopStreamingSlot>
+	  <DefaultSpawningPreference>DSP_NORMAL</DefaultSpawningPreference>
+	  <DefaultRemoveRangeMultiplier value="1.000000" />
+	  <AllowCloseSpawning value="false" />
+	</Item>
+	<Item>
+	  <Name>IG_BountyTarget_03</Name>
+	  <PropsName>IG_BountyTarget_03_p</PropsName>
+	  <ClipDictionaryName>move_m@generic</ClipDictionaryName>
+	  <BlendShapeFileName>null</BlendShapeFileName>
+	  <ExpressionSetName>expr_set_ambient_male</ExpressionSetName>
+	  <ExpressionDictionaryName>null</ExpressionDictionaryName>
+	  <ExpressionName>null</ExpressionName>
+	  <Pedtype>CIVMALE</Pedtype>
+	  <MovementClipSet>move_m@generic</MovementClipSet>
+	  <StrafeClipSet>move_ped_strafing</StrafeClipSet>
+	  <MovementToStrafeClipSet>move_ped_to_strafe</MovementToStrafeClipSet>
+	  <InjuredStrafeClipSet>move_strafe_injured</InjuredStrafeClipSet>
+	  <FullBodyDamageClipSet>dam_ko</FullBodyDamageClipSet>
+	  <AdditiveDamageClipSet>dam_ad</AdditiveDamageClipSet>
+	  <DefaultGestureClipSet>ANIM_GROUP_GESTURE_M_GENERIC</DefaultGestureClipSet>
+	  <FacialClipsetGroupName>facial_clipset_group_gen_male</FacialClipsetGroupName>
+	  <DefaultVisemeClipSet>ANIM_GROUP_VISEMES_M_LO</DefaultVisemeClipSet>
+	  <SidestepClipSet>CLIP_SET_ID_INVALID</SidestepClipSet>
+	  <PoseMatcherName>Male</PoseMatcherName>
+	  <PoseMatcherProneName>Male_prone</PoseMatcherProneName>
+	  <GetupSetHash>NMBS_SLOW_GETUPS</GetupSetHash>
+	  <CreatureMetadataName>MP_CreatureMetadata</CreatureMetadataName>
+	  <DecisionMakerName>DEFAULT</DecisionMakerName>
+	  <MotionTaskDataSetName>STANDARD_PED</MotionTaskDataSetName>
+	  <DefaultTaskDataSetName>STANDARD_PED</DefaultTaskDataSetName>
+	  <PedCapsuleName>STANDARD_MALE</PedCapsuleName>
+	  <PedLayoutName />
+	  <PedComponentSetName />
+	  <PedComponentClothName />
+	  <PedIKSettingsName />
+	  <TaskDataName />
+	  <IsStreamedGfx value="false" />
+	  <AmbulanceShouldRespondTo value="true" />
+	  <CanRideBikeWithNoHelmet value="false" />
+	  <CanSpawnInCar value="true" />
+	  <IsHeadBlendPed value="false" />
+	  <bOnlyBulkyItemVariations value="false" />
+	  <RelationshipGroup>CIVMALE</RelationshipGroup>
+	  <NavCapabilitiesName>STANDARD_PED</NavCapabilitiesName>
+	  <PerceptionInfo>DEFAULT_PERCEPTION</PerceptionInfo>
+	  <DefaultBrawlingStyle>BS_AI</DefaultBrawlingStyle>
+	  <DefaultUnarmedWeapon>WEAPON_UNARMED</DefaultUnarmedWeapon>
+	  <Personality>SERVICEMALES</Personality>
+	  <CombatInfo>DEFAULT</CombatInfo>
+	  <VfxInfoName>VFXPEDINFO_HUMAN_GENERIC</VfxInfoName>
+	  <AmbientClipsForFlee>FLEE</AmbientClipsForFlee>
+	  <Radio1>RADIO_GENRE_UNSPECIFIED</Radio1>
+	  <Radio2>RADIO_GENRE_UNSPECIFIED</Radio2>
+	  <FUpOffset value="0.000000" />
+	  <RUpOffset value="0.000000" />
+	  <FFrontOffset value="0.000000" />
+	  <RFrontOffset value="0.147000" />
+	  <MinActivationImpulse value="20.000000" />
+	  <Stubble value="0.000000" />
+	  <HDDist value="3.000000" />
+	  <TargetingThreatModifier value="1.000000" />
+	  <KilledPerceptionRangeModifer value="-1.000000" />
+	  <Sexiness />
+	  <Age value="0" />
+	  <MaxPassengersInCar value="0" />
+	  <ExternallyDrivenDOFs />
+	  <PedVoiceGroup>S24_HVTAMBUSH_PVG</PedVoiceGroup>
+	  <AnimalAudioObject />
+	  <AbilityType>SAT_NONE</AbilityType>
+	  <ThermalBehaviour>TB_WARM</ThermalBehaviour>
+	  <SuperlodType>SLOD_HUMAN</SuperlodType>
+	  <ScenarioPopStreamingSlot>SCENARIO_POP_STREAMING_NORMAL</ScenarioPopStreamingSlot>
+	  <DefaultSpawningPreference>DSP_NORMAL</DefaultSpawningPreference>
+	  <DefaultRemoveRangeMultiplier value="1.000000" />
+	  <AllowCloseSpawning value="false" />
+	</Item>
+	<Item>
+	  <Name>IG_BountyTarget_04</Name>
+	  <PropsName>IG_BountyTarget_04_p</PropsName>
+	  <ClipDictionaryName>move_m@generic</ClipDictionaryName>
+	  <BlendShapeFileName>null</BlendShapeFileName>
+	  <ExpressionSetName>null</ExpressionSetName>
+	  <ExpressionDictionaryName>IG_BountyTarget_04</ExpressionDictionaryName>
+	  <ExpressionName>IG_BountyTarget_04</ExpressionName>
+	  <Pedtype>CIVMALE</Pedtype>
+	  <MovementClipSet>move_m@generic</MovementClipSet>
+	  <StrafeClipSet>move_ped_strafing</StrafeClipSet>
+	  <MovementToStrafeClipSet>move_ped_to_strafe</MovementToStrafeClipSet>
+	  <InjuredStrafeClipSet>move_strafe_injured</InjuredStrafeClipSet>
+	  <FullBodyDamageClipSet>dam_ko</FullBodyDamageClipSet>
+	  <AdditiveDamageClipSet>dam_ad</AdditiveDamageClipSet>
+	  <DefaultGestureClipSet>ANIM_GROUP_GESTURE_M_GENERIC</DefaultGestureClipSet>
+	  <FacialClipsetGroupName>facial_clipset_group_gen_male</FacialClipsetGroupName>
+	  <DefaultVisemeClipSet>ANIM_GROUP_VISEMES_M_LO</DefaultVisemeClipSet>
+	  <SidestepClipSet>CLIP_SET_ID_INVALID</SidestepClipSet>
+	  <PoseMatcherName>Male</PoseMatcherName>
+	  <PoseMatcherProneName>Male_prone</PoseMatcherProneName>
+	  <GetupSetHash>NMBS_SLOW_GETUPS</GetupSetHash>
+	  <CreatureMetadataName>null</CreatureMetadataName>
+	  <DecisionMakerName>DEFAULT</DecisionMakerName>
+	  <MotionTaskDataSetName>STANDARD_PED</MotionTaskDataSetName>
+	  <DefaultTaskDataSetName>STANDARD_PED</DefaultTaskDataSetName>
+	  <PedCapsuleName>STANDARD_MALE</PedCapsuleName>
+	  <PedLayoutName />
+	  <PedComponentSetName />
+	  <PedComponentClothName />
+	  <PedIKSettingsName />
+	  <TaskDataName />
+	  <IsStreamedGfx value="false" />
+	  <AmbulanceShouldRespondTo value="true" />
+	  <CanRideBikeWithNoHelmet value="false" />
+	  <CanSpawnInCar value="true" />
+	  <IsHeadBlendPed value="false" />
+	  <bOnlyBulkyItemVariations value="false" />
+	  <RelationshipGroup>CIVMALE</RelationshipGroup>
+	  <NavCapabilitiesName>STANDARD_PED</NavCapabilitiesName>
+	  <PerceptionInfo>DEFAULT_PERCEPTION</PerceptionInfo>
+	  <DefaultBrawlingStyle>BS_AI</DefaultBrawlingStyle>
+	  <DefaultUnarmedWeapon>WEAPON_UNARMED</DefaultUnarmedWeapon>
+	  <Personality>SERVICEMALES</Personality>
+	  <CombatInfo>DEFAULT</CombatInfo>
+	  <VfxInfoName>VFXPEDINFO_HUMAN_GENERIC</VfxInfoName>
+	  <AmbientClipsForFlee>FLEE</AmbientClipsForFlee>
+	  <Radio1>RADIO_GENRE_UNSPECIFIED</Radio1>
+	  <Radio2>RADIO_GENRE_UNSPECIFIED</Radio2>
+	  <FUpOffset value="0.000000" />
+	  <RUpOffset value="0.000000" />
+	  <FFrontOffset value="0.000000" />
+	  <RFrontOffset value="0.147000" />
+	  <MinActivationImpulse value="20.000000" />
+	  <Stubble value="0.000000" />
+	  <HDDist value="3.000000" />
+	  <TargetingThreatModifier value="1.000000" />
+	  <KilledPerceptionRangeModifer value="-1.000000" />
+	  <Sexiness />
+	  <Age value="0" />
+	  <MaxPassengersInCar value="0" />
+	  <ExternallyDrivenDOFs />
+	  <PedVoiceGroup>S24_HVTHEAVY_PVG</PedVoiceGroup>
+	  <AnimalAudioObject />
+	  <AbilityType>SAT_NONE</AbilityType>
+	  <ThermalBehaviour>TB_WARM</ThermalBehaviour>
+	  <SuperlodType>SLOD_HUMAN</SuperlodType>
+	  <ScenarioPopStreamingSlot>SCENARIO_POP_STREAMING_NORMAL</ScenarioPopStreamingSlot>
+	  <DefaultSpawningPreference>DSP_NORMAL</DefaultSpawningPreference>
+	  <DefaultRemoveRangeMultiplier value="1.000000" />
+	  <AllowCloseSpawning value="false" />
+	</Item>
+	<Item>
+	  <Name>IG_BountyTarget_06</Name>
+	  <PropsName>IG_BountyTarget_06_p</PropsName>
+	  <ClipDictionaryName>move_m@generic</ClipDictionaryName>
+	  <BlendShapeFileName>null</BlendShapeFileName>
+	  <ExpressionSetName>expr_set_ambient_male</ExpressionSetName>
+	  <ExpressionDictionaryName>null</ExpressionDictionaryName>
+	  <ExpressionName>null</ExpressionName>
+	  <Pedtype>CIVMALE</Pedtype>
+	  <MovementClipSet>move_m@generic</MovementClipSet>
+	  <StrafeClipSet>move_ped_strafing</StrafeClipSet>
+	  <MovementToStrafeClipSet>move_ped_to_strafe</MovementToStrafeClipSet>
+	  <InjuredStrafeClipSet>move_strafe_injured</InjuredStrafeClipSet>
+	  <FullBodyDamageClipSet>dam_ko</FullBodyDamageClipSet>
+	  <AdditiveDamageClipSet>dam_ad</AdditiveDamageClipSet>
+	  <DefaultGestureClipSet>ANIM_GROUP_GESTURE_M_GENERIC</DefaultGestureClipSet>
+	  <FacialClipsetGroupName>facial_clipset_group_gen_male</FacialClipsetGroupName>
+	  <DefaultVisemeClipSet>ANIM_GROUP_VISEMES_M_LO</DefaultVisemeClipSet>
+	  <SidestepClipSet>CLIP_SET_ID_INVALID</SidestepClipSet>
+	  <PoseMatcherName>Male</PoseMatcherName>
+	  <PoseMatcherProneName>Male_prone</PoseMatcherProneName>
+	  <GetupSetHash>NMBS_SLOW_GETUPS</GetupSetHash>
+	  <CreatureMetadataName>null</CreatureMetadataName>
+	  <DecisionMakerName>DEFAULT</DecisionMakerName>
+	  <MotionTaskDataSetName>STANDARD_PED</MotionTaskDataSetName>
+	  <DefaultTaskDataSetName>STANDARD_PED</DefaultTaskDataSetName>
+	  <PedCapsuleName>STANDARD_MALE</PedCapsuleName>
+	  <PedLayoutName />
+	  <PedComponentSetName />
+	  <PedComponentClothName />
+	  <PedIKSettingsName />
+	  <TaskDataName />
+	  <IsStreamedGfx value="false" />
+	  <AmbulanceShouldRespondTo value="true" />
+	  <CanRideBikeWithNoHelmet value="false" />
+	  <CanSpawnInCar value="true" />
+	  <IsHeadBlendPed value="false" />
+	  <bOnlyBulkyItemVariations value="false" />
+	  <RelationshipGroup>CIVMALE</RelationshipGroup>
+	  <NavCapabilitiesName>STANDARD_PED</NavCapabilitiesName>
+	  <PerceptionInfo>DEFAULT_PERCEPTION</PerceptionInfo>
+	  <DefaultBrawlingStyle>BS_AI</DefaultBrawlingStyle>
+	  <DefaultUnarmedWeapon>WEAPON_UNARMED</DefaultUnarmedWeapon>
+	  <Personality>SERVICEMALES</Personality>
+	  <CombatInfo>DEFAULT</CombatInfo>
+	  <VfxInfoName>VFXPEDINFO_HUMAN_GENERIC</VfxInfoName>
+	  <AmbientClipsForFlee>FLEE</AmbientClipsForFlee>
+	  <Radio1>RADIO_GENRE_UNSPECIFIED</Radio1>
+	  <Radio2>RADIO_GENRE_UNSPECIFIED</Radio2>
+	  <FUpOffset value="0.000000" />
+	  <RUpOffset value="0.000000" />
+	  <FFrontOffset value="0.000000" />
+	  <RFrontOffset value="0.147000" />
+	  <MinActivationImpulse value="20.000000" />
+	  <Stubble value="0.000000" />
+	  <HDDist value="3.000000" />
+	  <TargetingThreatModifier value="1.000000" />
+	  <KilledPerceptionRangeModifer value="-1.000000" />
+	  <Sexiness />
+	  <Age value="0" />
+	  <MaxPassengersInCar value="0" />
+	  <ExternallyDrivenDOFs />
+	  <PedVoiceGroup>S24_HVTLI_PVG</PedVoiceGroup>
+	  <AnimalAudioObject />
+	  <AbilityType>SAT_NONE</AbilityType>
+	  <ThermalBehaviour>TB_WARM</ThermalBehaviour>
+	  <SuperlodType>SLOD_HUMAN</SuperlodType>
+	  <ScenarioPopStreamingSlot>SCENARIO_POP_STREAMING_NORMAL</ScenarioPopStreamingSlot>
+	  <DefaultSpawningPreference>DSP_NORMAL</DefaultSpawningPreference>
+	  <DefaultRemoveRangeMultiplier value="1.000000" />
+	  <AllowCloseSpawning value="false" />
+	</Item>
+	<Item>
+	  <Name>IG_Mechanic_03</Name>
+	  <PropsName>null</PropsName>
+	  <ClipDictionaryName>move_m@generic</ClipDictionaryName>
+	  <BlendShapeFileName>null</BlendShapeFileName>
+	  <ExpressionSetName>expr_set_ambient_male</ExpressionSetName>
+	  <ExpressionDictionaryName>null</ExpressionDictionaryName>
+	  <ExpressionName>null</ExpressionName>
+	  <Pedtype>CIVMALE</Pedtype>
+	  <MovementClipSet>move_m@generic</MovementClipSet>
+	  <StrafeClipSet>move_ped_strafing</StrafeClipSet>
+	  <MovementToStrafeClipSet>move_ped_to_strafe</MovementToStrafeClipSet>
+	  <InjuredStrafeClipSet>move_strafe_injured</InjuredStrafeClipSet>
+	  <FullBodyDamageClipSet>dam_ko</FullBodyDamageClipSet>
+	  <AdditiveDamageClipSet>dam_ad</AdditiveDamageClipSet>
+	  <DefaultGestureClipSet>ANIM_GROUP_GESTURE_M_GENERIC</DefaultGestureClipSet>
+	  <FacialClipsetGroupName>facial_clipset_group_gen_male</FacialClipsetGroupName>
+	  <DefaultVisemeClipSet>ANIM_GROUP_VISEMES_M_LO</DefaultVisemeClipSet>
+	  <SidestepClipSet>CLIP_SET_ID_INVALID</SidestepClipSet>
+	  <PoseMatcherName>Male</PoseMatcherName>
+	  <PoseMatcherProneName>Male_prone</PoseMatcherProneName>
+	  <GetupSetHash>NMBS_SLOW_GETUPS</GetupSetHash>
+	  <CreatureMetadataName>null</CreatureMetadataName>
+	  <DecisionMakerName>DEFAULT</DecisionMakerName>
+	  <MotionTaskDataSetName>STANDARD_PED</MotionTaskDataSetName>
+	  <DefaultTaskDataSetName>STANDARD_PED</DefaultTaskDataSetName>
+	  <PedCapsuleName>STANDARD_MALE</PedCapsuleName>
+	  <PedLayoutName />
+	  <PedComponentSetName />
+	  <PedComponentClothName />
+	  <PedIKSettingsName />
+	  <TaskDataName />
+	  <IsStreamedGfx value="false" />
+	  <AmbulanceShouldRespondTo value="true" />
+	  <CanRideBikeWithNoHelmet value="false" />
+	  <CanSpawnInCar value="true" />
+	  <IsHeadBlendPed value="false" />
+	  <bOnlyBulkyItemVariations value="false" />
+	  <RelationshipGroup>CIVMALE</RelationshipGroup>
+	  <NavCapabilitiesName>STANDARD_PED</NavCapabilitiesName>
+	  <PerceptionInfo>DEFAULT_PERCEPTION</PerceptionInfo>
+	  <DefaultBrawlingStyle>BS_AI</DefaultBrawlingStyle>
+	  <DefaultUnarmedWeapon>WEAPON_UNARMED</DefaultUnarmedWeapon>
+	  <Personality>SERVICEMALES</Personality>
+	  <CombatInfo>DEFAULT</CombatInfo>
+	  <VfxInfoName>VFXPEDINFO_HUMAN_GENERIC</VfxInfoName>
+	  <AmbientClipsForFlee>FLEE</AmbientClipsForFlee>
+	  <Radio1>RADIO_GENRE_UNSPECIFIED</Radio1>
+	  <Radio2>RADIO_GENRE_UNSPECIFIED</Radio2>
+	  <FUpOffset value="0.000000" />
+	  <RUpOffset value="0.000000" />
+	  <FFrontOffset value="0.000000" />
+	  <RFrontOffset value="0.147000" />
+	  <MinActivationImpulse value="20.000000" />
+	  <Stubble value="0.000000" />
+	  <HDDist value="3.000000" />
+	  <TargetingThreatModifier value="1.000000" />
+	  <KilledPerceptionRangeModifer value="-1.000000" />
+	  <Sexiness />
+	  <Age value="0" />
+	  <MaxPassengersInCar value="0" />
+	  <ExternallyDrivenDOFs />
+	  <PedVoiceGroup>S_M_M_AUTOSHOP_01_R2PVG</PedVoiceGroup>
+	  <AnimalAudioObject />
+	  <AbilityType>SAT_NONE</AbilityType>
+	  <ThermalBehaviour>TB_WARM</ThermalBehaviour>
+	  <SuperlodType>SLOD_HUMAN</SuperlodType>
+	  <ScenarioPopStreamingSlot>SCENARIO_POP_STREAMING_NORMAL</ScenarioPopStreamingSlot>
+	  <DefaultSpawningPreference>DSP_NORMAL</DefaultSpawningPreference>
+	  <DefaultRemoveRangeMultiplier value="1.000000" />
+	  <AllowCloseSpawning value="false" />
+	</Item>
+	<Item>
+	  <Name>G_M_M_Zombie_01</Name>
+	  <PropsName>G_M_M_Zombie_01_p</PropsName>
+	  <ClipDictionaryName>move_m@generic</ClipDictionaryName>
+	  <BlendShapeFileName>null</BlendShapeFileName>
+	  <ExpressionSetName>expr_set_ambient_male</ExpressionSetName>
+	  <ExpressionDictionaryName>null</ExpressionDictionaryName>
+	  <ExpressionName>null</ExpressionName>
+	  <Pedtype>CIVMALE</Pedtype>
+	  <MovementClipSet>move_m@generic</MovementClipSet>
+	  <StrafeClipSet>move_ped_strafing</StrafeClipSet>
+	  <MovementToStrafeClipSet>move_ped_to_strafe</MovementToStrafeClipSet>
+	  <InjuredStrafeClipSet>move_strafe_injured</InjuredStrafeClipSet>
+	  <FullBodyDamageClipSet>dam_ko</FullBodyDamageClipSet>
+	  <AdditiveDamageClipSet>dam_ad</AdditiveDamageClipSet>
+	  <DefaultGestureClipSet>ANIM_GROUP_GESTURE_M_GENERIC</DefaultGestureClipSet>
+	  <FacialClipsetGroupName>facial_clipset_group_gen_male</FacialClipsetGroupName>
+	  <DefaultVisemeClipSet>ANIM_GROUP_VISEMES_M_LO</DefaultVisemeClipSet>
+	  <SidestepClipSet>CLIP_SET_ID_INVALID</SidestepClipSet>
+	  <PoseMatcherName>Male</PoseMatcherName>
+	  <PoseMatcherProneName>Male_prone</PoseMatcherProneName>
+	  <GetupSetHash>NMBS_SLOW_GETUPS</GetupSetHash>
+	  <CreatureMetadataName>null</CreatureMetadataName>
+	  <DecisionMakerName>DEFAULT</DecisionMakerName>
+	  <MotionTaskDataSetName>STANDARD_PED</MotionTaskDataSetName>
+	  <DefaultTaskDataSetName>STANDARD_PED</DefaultTaskDataSetName>
+	  <PedCapsuleName>STANDARD_MALE</PedCapsuleName>
+	  <PedLayoutName />
+	  <PedComponentSetName />
+	  <PedComponentClothName />
+	  <PedIKSettingsName />
+	  <TaskDataName />
+	  <IsStreamedGfx value="false" />
+	  <AmbulanceShouldRespondTo value="true" />
+	  <CanRideBikeWithNoHelmet value="false" />
+	  <CanSpawnInCar value="true" />
+	  <IsHeadBlendPed value="false" />
+	  <bOnlyBulkyItemVariations value="false" />
+	  <RelationshipGroup>CIVMALE</RelationshipGroup>
+	  <NavCapabilitiesName>STANDARD_PED</NavCapabilitiesName>
+	  <PerceptionInfo>DEFAULT_PERCEPTION</PerceptionInfo>
+	  <DefaultBrawlingStyle>BS_AI</DefaultBrawlingStyle>
+	  <DefaultUnarmedWeapon>WEAPON_UNARMED</DefaultUnarmedWeapon>
+	  <Personality>SERVICEMALES</Personality>
+	  <CombatInfo>DEFAULT</CombatInfo>
+	  <VfxInfoName>VFXPEDINFO_HUMAN_GENERIC</VfxInfoName>
+	  <AmbientClipsForFlee>FLEE</AmbientClipsForFlee>
+	  <Radio1>RADIO_GENRE_UNSPECIFIED</Radio1>
+	  <Radio2>RADIO_GENRE_UNSPECIFIED</Radio2>
+	  <FUpOffset value="0.000000" />
+	  <RUpOffset value="0.000000" />
+	  <FFrontOffset value="0.000000" />
+	  <RFrontOffset value="0.147000" />
+	  <MinActivationImpulse value="20.000000" />
+	  <Stubble value="0.000000" />
+	  <HDDist value="3.000000" />
+	  <TargetingThreatModifier value="1.000000" />
+	  <KilledPerceptionRangeModifer value="-1.000000" />
+	  <Sexiness />
+	  <Age value="0" />
+	  <MaxPassengersInCar value="0" />
+	  <ExternallyDrivenDOFs />
+	  <PedVoiceGroup>SILENT_MP_PVG</PedVoiceGroup>
+	  <AnimalAudioObject />
+	  <AbilityType>SAT_NONE</AbilityType>
+	  <ThermalBehaviour>TB_WARM</ThermalBehaviour>
+	  <SuperlodType>SLOD_HUMAN</SuperlodType>
+	  <ScenarioPopStreamingSlot>SCENARIO_POP_STREAMING_NORMAL</ScenarioPopStreamingSlot>
+	  <DefaultSpawningPreference>DSP_NORMAL</DefaultSpawningPreference>
+	  <DefaultRemoveRangeMultiplier value="1.000000" />
+	  <AllowCloseSpawning value="false" />
+	</Item>
+	<Item>
+	  <Name>G_M_M_Zombie_02</Name>
+	  <PropsName>G_M_M_Zombie_02_p</PropsName>
+	  <ClipDictionaryName>move_m@generic</ClipDictionaryName>
+	  <BlendShapeFileName>null</BlendShapeFileName>
+	  <ExpressionSetName>null</ExpressionSetName>
+	  <ExpressionDictionaryName>G_M_M_Zombie_02</ExpressionDictionaryName>
+	  <ExpressionName>G_M_M_Zombie_02</ExpressionName>
+	  <Pedtype>CIVMALE</Pedtype>
+	  <MovementClipSet>move_m@generic</MovementClipSet>
+	  <StrafeClipSet>move_ped_strafing</StrafeClipSet>
+	  <MovementToStrafeClipSet>move_ped_to_strafe</MovementToStrafeClipSet>
+	  <InjuredStrafeClipSet>move_strafe_injured</InjuredStrafeClipSet>
+	  <FullBodyDamageClipSet>dam_ko</FullBodyDamageClipSet>
+	  <AdditiveDamageClipSet>dam_ad</AdditiveDamageClipSet>
+	  <DefaultGestureClipSet>ANIM_GROUP_GESTURE_M_GENERIC</DefaultGestureClipSet>
+	  <FacialClipsetGroupName>facial_clipset_group_gen_male</FacialClipsetGroupName>
+	  <DefaultVisemeClipSet>ANIM_GROUP_VISEMES_M_LO</DefaultVisemeClipSet>
+	  <SidestepClipSet>CLIP_SET_ID_INVALID</SidestepClipSet>
+	  <PoseMatcherName>Male</PoseMatcherName>
+	  <PoseMatcherProneName>Male_prone</PoseMatcherProneName>
+	  <GetupSetHash>NMBS_SLOW_GETUPS</GetupSetHash>
+	  <CreatureMetadataName>null</CreatureMetadataName>
+	  <DecisionMakerName>DEFAULT</DecisionMakerName>
+	  <MotionTaskDataSetName>STANDARD_PED</MotionTaskDataSetName>
+	  <DefaultTaskDataSetName>STANDARD_PED</DefaultTaskDataSetName>
+	  <PedCapsuleName>STANDARD_MALE</PedCapsuleName>
+	  <PedLayoutName />
+	  <PedComponentSetName />
+	  <PedComponentClothName />
+	  <PedIKSettingsName />
+	  <TaskDataName />
+	  <IsStreamedGfx value="false" />
+	  <AmbulanceShouldRespondTo value="true" />
+	  <CanRideBikeWithNoHelmet value="false" />
+	  <CanSpawnInCar value="true" />
+	  <IsHeadBlendPed value="false" />
+	  <bOnlyBulkyItemVariations value="false" />
+	  <RelationshipGroup>CIVMALE</RelationshipGroup>
+	  <NavCapabilitiesName>STANDARD_PED</NavCapabilitiesName>
+	  <PerceptionInfo>DEFAULT_PERCEPTION</PerceptionInfo>
+	  <DefaultBrawlingStyle>BS_AI</DefaultBrawlingStyle>
+	  <DefaultUnarmedWeapon>WEAPON_UNARMED</DefaultUnarmedWeapon>
+	  <Personality>SERVICEMALES</Personality>
+	  <CombatInfo>DEFAULT</CombatInfo>
+	  <VfxInfoName>VFXPEDINFO_HUMAN_GENERIC</VfxInfoName>
+	  <AmbientClipsForFlee>FLEE</AmbientClipsForFlee>
+	  <Radio1>RADIO_GENRE_UNSPECIFIED</Radio1>
+	  <Radio2>RADIO_GENRE_UNSPECIFIED</Radio2>
+	  <FUpOffset value="0.000000" />
+	  <RUpOffset value="0.000000" />
+	  <FFrontOffset value="0.000000" />
+	  <RFrontOffset value="0.147000" />
+	  <MinActivationImpulse value="20.000000" />
+	  <Stubble value="0.000000" />
+	  <HDDist value="3.000000" />
+	  <TargetingThreatModifier value="1.000000" />
+	  <KilledPerceptionRangeModifer value="-1.000000" />
+	  <Sexiness />
+	  <Age value="0" />
+	  <MaxPassengersInCar value="0" />
+	  <ExternallyDrivenDOFs />
+	  <PedVoiceGroup>SILENT_MP_PVG</PedVoiceGroup>
+	  <AnimalAudioObject />
+	  <AbilityType>SAT_NONE</AbilityType>
+	  <ThermalBehaviour>TB_WARM</ThermalBehaviour>
+	  <SuperlodType>SLOD_HUMAN</SuperlodType>
+	  <ScenarioPopStreamingSlot>SCENARIO_POP_STREAMING_NORMAL</ScenarioPopStreamingSlot>
+	  <DefaultSpawningPreference>DSP_NORMAL</DefaultSpawningPreference>
+	  <DefaultRemoveRangeMultiplier value="1.000000" />
+	  <AllowCloseSpawning value="false" />
+	</Item>
+	<Item>
+	  <Name>G_M_M_Zombie_03</Name>
+	  <PropsName>null</PropsName>
+	  <ClipDictionaryName>move_m@generic</ClipDictionaryName>
+	  <BlendShapeFileName>null</BlendShapeFileName>
+	  <ExpressionSetName>expr_set_ambient_male</ExpressionSetName>
+	  <ExpressionDictionaryName>null</ExpressionDictionaryName>
+	  <ExpressionName>null</ExpressionName>
+	  <Pedtype>CIVMALE</Pedtype>
+	  <MovementClipSet>move_m@generic</MovementClipSet>
+	  <StrafeClipSet>move_ped_strafing</StrafeClipSet>
+	  <MovementToStrafeClipSet>move_ped_to_strafe</MovementToStrafeClipSet>
+	  <InjuredStrafeClipSet>move_strafe_injured</InjuredStrafeClipSet>
+	  <FullBodyDamageClipSet>dam_ko</FullBodyDamageClipSet>
+	  <AdditiveDamageClipSet>dam_ad</AdditiveDamageClipSet>
+	  <DefaultGestureClipSet>ANIM_GROUP_GESTURE_M_GENERIC</DefaultGestureClipSet>
+	  <FacialClipsetGroupName>facial_clipset_group_gen_male</FacialClipsetGroupName>
+	  <DefaultVisemeClipSet>ANIM_GROUP_VISEMES_M_LO</DefaultVisemeClipSet>
+	  <SidestepClipSet>CLIP_SET_ID_INVALID</SidestepClipSet>
+	  <PoseMatcherName>Male</PoseMatcherName>
+	  <PoseMatcherProneName>Male_prone</PoseMatcherProneName>
+	  <GetupSetHash>NMBS_SLOW_GETUPS</GetupSetHash>
+	  <CreatureMetadataName>null</CreatureMetadataName>
+	  <DecisionMakerName>DEFAULT</DecisionMakerName>
+	  <MotionTaskDataSetName>STANDARD_PED</MotionTaskDataSetName>
+	  <DefaultTaskDataSetName>STANDARD_PED</DefaultTaskDataSetName>
+	  <PedCapsuleName>STANDARD_MALE</PedCapsuleName>
+	  <PedLayoutName />
+	  <PedComponentSetName />
+	  <PedComponentClothName />
+	  <PedIKSettingsName />
+	  <TaskDataName />
+	  <IsStreamedGfx value="false" />
+	  <AmbulanceShouldRespondTo value="true" />
+	  <CanRideBikeWithNoHelmet value="false" />
+	  <CanSpawnInCar value="true" />
+	  <IsHeadBlendPed value="false" />
+	  <bOnlyBulkyItemVariations value="false" />
+	  <RelationshipGroup>CIVMALE</RelationshipGroup>
+	  <NavCapabilitiesName>STANDARD_PED</NavCapabilitiesName>
+	  <PerceptionInfo>DEFAULT_PERCEPTION</PerceptionInfo>
+	  <DefaultBrawlingStyle>BS_AI</DefaultBrawlingStyle>
+	  <DefaultUnarmedWeapon>WEAPON_UNARMED</DefaultUnarmedWeapon>
+	  <Personality>SERVICEMALES</Personality>
+	  <CombatInfo>DEFAULT</CombatInfo>
+	  <VfxInfoName>VFXPEDINFO_HUMAN_GENERIC</VfxInfoName>
+	  <AmbientClipsForFlee>FLEE</AmbientClipsForFlee>
+	  <Radio1>RADIO_GENRE_UNSPECIFIED</Radio1>
+	  <Radio2>RADIO_GENRE_UNSPECIFIED</Radio2>
+	  <FUpOffset value="0.000000" />
+	  <RUpOffset value="0.000000" />
+	  <FFrontOffset value="0.000000" />
+	  <RFrontOffset value="0.147000" />
+	  <MinActivationImpulse value="20.000000" />
+	  <Stubble value="0.000000" />
+	  <HDDist value="3.000000" />
+	  <TargetingThreatModifier value="1.000000" />
+	  <KilledPerceptionRangeModifer value="-1.000000" />
+	  <Sexiness />
+	  <Age value="0" />
+	  <MaxPassengersInCar value="0" />
+	  <ExternallyDrivenDOFs />
+	  <PedVoiceGroup>SILENT_MP_PVG</PedVoiceGroup>
+	  <AnimalAudioObject />
+	  <AbilityType>SAT_NONE</AbilityType>
+	  <ThermalBehaviour>TB_WARM</ThermalBehaviour>
+	  <SuperlodType>SLOD_HUMAN</SuperlodType>
+	  <ScenarioPopStreamingSlot>SCENARIO_POP_STREAMING_NORMAL</ScenarioPopStreamingSlot>
+	  <DefaultSpawningPreference>DSP_NORMAL</DefaultSpawningPreference>
+	  <DefaultRemoveRangeMultiplier value="1.000000" />
+	  <AllowCloseSpawning value="false" />
+	</Item>
+	<Item>
+	  <Name>S_M_M_BailOffice_01</Name>
+	  <PropsName>S_M_M_BailOffice_01_p</PropsName>
+	  <ClipDictionaryName>move_m@generic</ClipDictionaryName>
+	  <BlendShapeFileName>null</BlendShapeFileName>
+	  <ExpressionSetName>expr_set_ambient_male</ExpressionSetName>
+	  <ExpressionDictionaryName>null</ExpressionDictionaryName>
+	  <ExpressionName>null</ExpressionName>
+	  <Pedtype>CIVMALE</Pedtype>
+	  <MovementClipSet>move_m@generic</MovementClipSet>
+	  <StrafeClipSet>move_ped_strafing</StrafeClipSet>
+	  <MovementToStrafeClipSet>move_ped_to_strafe</MovementToStrafeClipSet>
+	  <InjuredStrafeClipSet>move_strafe_injured</InjuredStrafeClipSet>
+	  <FullBodyDamageClipSet>dam_ko</FullBodyDamageClipSet>
+	  <AdditiveDamageClipSet>dam_ad</AdditiveDamageClipSet>
+	  <DefaultGestureClipSet>ANIM_GROUP_GESTURE_M_GENERIC</DefaultGestureClipSet>
+	  <FacialClipsetGroupName>facial_clipset_group_gen_male</FacialClipsetGroupName>
+	  <DefaultVisemeClipSet>ANIM_GROUP_VISEMES_M_LO</DefaultVisemeClipSet>
+	  <SidestepClipSet>CLIP_SET_ID_INVALID</SidestepClipSet>
+	  <PoseMatcherName>Male</PoseMatcherName>
+	  <PoseMatcherProneName>Male_prone</PoseMatcherProneName>
+	  <GetupSetHash>NMBS_SLOW_GETUPS</GetupSetHash>
+	  <CreatureMetadataName>null</CreatureMetadataName>
+	  <DecisionMakerName>DEFAULT</DecisionMakerName>
+	  <MotionTaskDataSetName>STANDARD_PED</MotionTaskDataSetName>
+	  <DefaultTaskDataSetName>STANDARD_PED</DefaultTaskDataSetName>
+	  <PedCapsuleName>STANDARD_MALE</PedCapsuleName>
+	  <PedLayoutName />
+	  <PedComponentSetName />
+	  <PedComponentClothName />
+	  <PedIKSettingsName />
+	  <TaskDataName />
+	  <IsStreamedGfx value="false" />
+	  <AmbulanceShouldRespondTo value="true" />
+	  <CanRideBikeWithNoHelmet value="false" />
+	  <CanSpawnInCar value="true" />
+	  <IsHeadBlendPed value="false" />
+	  <bOnlyBulkyItemVariations value="false" />
+	  <RelationshipGroup>CIVMALE</RelationshipGroup>
+	  <NavCapabilitiesName>STANDARD_PED</NavCapabilitiesName>
+	  <PerceptionInfo>DEFAULT_PERCEPTION</PerceptionInfo>
+	  <DefaultBrawlingStyle>BS_AI</DefaultBrawlingStyle>
+	  <DefaultUnarmedWeapon>WEAPON_UNARMED</DefaultUnarmedWeapon>
+	  <Personality>SERVICEMALES</Personality>
+	  <CombatInfo>DEFAULT</CombatInfo>
+	  <VfxInfoName>VFXPEDINFO_HUMAN_GENERIC</VfxInfoName>
+	  <AmbientClipsForFlee>FLEE</AmbientClipsForFlee>
+	  <Radio1>RADIO_GENRE_UNSPECIFIED</Radio1>
+	  <Radio2>RADIO_GENRE_UNSPECIFIED</Radio2>
+	  <FUpOffset value="0.000000" />
+	  <RUpOffset value="0.000000" />
+	  <FFrontOffset value="0.000000" />
+	  <RFrontOffset value="0.147000" />
+	  <MinActivationImpulse value="20.000000" />
+	  <Stubble value="0.000000" />
+	  <HDDist value="3.000000" />
+	  <TargetingThreatModifier value="1.000000" />
+	  <KilledPerceptionRangeModifer value="-1.000000" />
+	  <Sexiness />
+	  <Age value="0" />
+	  <MaxPassengersInCar value="0" />
+	  <ExternallyDrivenDOFs />
+	  <PedVoiceGroup>SILENT_MP_PVG</PedVoiceGroup>
+	  <AnimalAudioObject />
+	  <AbilityType>SAT_NONE</AbilityType>
+	  <ThermalBehaviour>TB_WARM</ThermalBehaviour>
+	  <SuperlodType>SLOD_HUMAN</SuperlodType>
+	  <ScenarioPopStreamingSlot>SCENARIO_POP_STREAMING_NORMAL</ScenarioPopStreamingSlot>
+	  <DefaultSpawningPreference>DSP_NORMAL</DefaultSpawningPreference>
+	  <DefaultRemoveRangeMultiplier value="1.000000" />
+	  <AllowCloseSpawning value="false" />
+	</Item>
+</InitDatas>
+
+  <multiTxdRelationships>
+    <Item>
+      <parent>comp_peds_helmets_moped</parent>
+      <children>
+       
+      </children>
+    </Item>
+    <Item>
+      <parent>comp_peds_helmets_motox</parent>
+      <children>
+      
+      </children>
+    </Item>
+    <Item>
+      <parent>comp_peds_helmets_sports</parent>
+      <children>
+      
+      </children>
+    </Item>
+    <Item>
+      <parent>comp_peds_helmets_shorty</parent>
+      <children>
+     
+      </children>
+    </Item>
+    <Item>
+      <parent>strm_peds_mpTattRTs</parent>
+      <children>
+     
+      </children>
+    </Item>
+    <Item>
+      <parent>strm_peds_mpShare</parent>
+      <children>
+      
+      </children>
+    </Item>
+    <Item>
+      <parent>comp_peds_marine</parent>
+      <children>
+       
+      </children>
+    </Item>
+  </multiTxdRelationships>
+</CPedModelInfo__InitDataList>

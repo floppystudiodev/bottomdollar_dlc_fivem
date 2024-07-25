@@ -1,0 +1,10 @@
+<sOverlayInfos>
+	<overlayInfos>
+		<Item>
+			<nameId>mp2024_01_G9EC_map_additions</nameId>
+			<changeSet>MP2024_01_G9EC_MAP_UPDATE</changeSet>
+			<version value="1"/>
+			<changeSetGroupToExecuteWith>GROUP_MAP</changeSetGroupToExecuteWith>
+		</Item>		
+	</overlayInfos>
+</sOverlayInfos>

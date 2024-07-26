@@ -8,7 +8,9 @@ Welcome to the [Bottom Dollar Bounties package](https://www.rockstargames.com/es
 
 ## 🎯 Purpose
 
-The purpose of this package is to allow the use of the basic files from the new update in FiveM until the official gamebuild is released. This package is not intended to stream all files, though you can include them if you wish, but be aware that this will increase the server's resource usage. It is designed so that FiveM server owners can use the parts they are most interested in. 
+The purpose of this package is to allow the use of the basic files from the new update in FiveM until the official gamebuild is released. 
+
+**❗ This package is not intended to stream all files, though you can include them if you wish, but be aware that this will increase the server's resource usage. It is designed so that FiveM server owners can use the parts they are most interested in.**
 
 ## ⚠️ Important Notes
 

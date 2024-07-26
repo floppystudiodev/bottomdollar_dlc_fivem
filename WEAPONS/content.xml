@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CDataFileMgr__ContentsOfDataFileXml>
+  <disabledFiles />
+  <includedXmlFiles />
+  <includedDataFiles />
+  <dataFiles> 
+	<Item>
+	  <filename>dlc_mp2024_01:/%PLATFORM%/levels/gta5/navmeshes.rpf</filename>
+	  <fileType>RPF_FILE</fileType>
+	  <overlay value="true" />
+	  <disabled value="true" />
+	  <persistent value="true" />
+	</Item>     
+   <Item>
+      <filename>dlc_mp2024_01:/common/data/overlayinfo.xml</filename>
+      <fileType>OVERLAY_INFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/gta5/mp2024_01_additions/mp2024_01_additions.rpf</filename>
+	  <fileType>RPF_FILE</fileType>
+	  <overlay value="false" />	  
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/gta5/mp2024_01_additions/mp2024_01_additions_metadata.rpf</filename>
+	  <fileType>RPF_FILE</fileType>
+	  <loadCompletely value="true"/>
+	  <overlay value="false" />	  
+      <disabled value="true" />
+      <persistent value="true" />
+	  <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/Prop_M24_1_Accs_01.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>  
+    <Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/m24_1_Prop_M24_1_Accs_01.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/Prop_M24_1_Accs_02.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>  
+    <Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/m24_1_Prop_M24_1_Accs_02.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/Prop_M24_1_Container.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>  
+    <Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/m24_1_Prop_M24_1_Container.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/Prop_M24_1_Deathmatch.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>  
+    <Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/m24_1_Prop_M24_1_Deathmatch.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/Prop_M24_1_Doors.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>  
+    <Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/m24_1_Prop_M24_1_Doors.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/Prop_M24_1_Facility.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>  
+    <Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/m24_1_Prop_M24_1_Facility.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/Prop_M24_1_Interiors.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>  
+    <Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/m24_1_Prop_M24_1_Interiors.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/Prop_M24_1_Lev_Des.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>  
+    <Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/m24_1_Prop_M24_1_Lev_Des.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+	</Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/Prop_M24_1_Posters.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>  
+    <Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/m24_1_Prop_M24_1_Posters.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/Prop_M24_1_Race.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>  
+    <Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/m24_1_Prop_M24_1_Race.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/Prop_M24_1_Trophies.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>  
+    <Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/m24_1_Prop_M24_1_Trophies.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/Prop_M24_1_Carrier.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>  
+    <Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/m24_1_Prop_M24_1_Carrier.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/common/data/weaponArchetypes.meta</filename>
+      <fileType>WEAPON_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/models/cdimages/weapons.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/models/cdimages/mp2024_01_female.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/models/cdimages/mp2024_01_female_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mp2024_01CRC:/common/data/mp_f_freemode_01_mp2024_01_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/models/cdimages/mp2024_01_male.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/models/cdimages/mp2024_01_male_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mp2024_01CRC:/common/data/mp_m_freemode_01_mp2024_01_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mp2024_01:/common/data/effects/peds/first_person.meta</filename>
+      <fileType>PED_FIRST_PERSON_ASSET_DATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01CRC:/common/data/pedalternatevariations.meta</filename>
+      <fileType>ALTERNATE_VARIATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mp2024_01:/common/data/effects/peds/first_person_alternates.meta</filename>
+      <fileType>PED_FIRST_PERSON_ALTERNATE_DATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/anim/creaturemetadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/anim/expressions.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+	  <filename>dlc_mp2024_01:/%PLATFORM%/models/cdimages/peds/mp2024_01.rpf</filename>
+	  <fileType>RPF_FILE</fileType>
+	  <overlay value="false" />
+	  <disabled value="true" />
+	  <persistent value="true" />
+	</Item>
+	<Item>
+	  <filename>dlc_mp2024_01:/%PLATFORM%/models/cdimages/peds/mp2024_01_p.rpf</filename>
+	  <fileType>RPF_FILE</fileType>
+	  <overlay value="false" />
+	  <disabled value="true" />
+	  <persistent value="true" />
+	</Item>
+	<Item>
+	  <filename>dlc_mp2024_01:/common/data/peds.meta</filename>
+	  <fileType>PED_METADATA_FILE</fileType>
+	  <overlay value="false" />
+	  <disabled value="true" />
+	  <persistent value="false" />
+	</Item>
+ 	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/gta5/interiors/m24_1_dlc_int_01.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/gta5/interiors/m24_1_dlc_int_carrier.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/gta5/interiors/int_placement_m24_1.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mp2024_01:/common/data/interiorProxies.meta</filename>
+      <fileType>INTERIOR_PROXY_ORDER_FILE</fileType>
+      <overlay value="false"/>
+      <disabled value="true"/>
+      <persistent value="false"/>
+    </Item>
+    <Item>
+      <filename>dlc_mp2024_01:/common/data/dlctext.meta</filename>
+      <fileType>TEXTFILE_METAFILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/gta5/vehicles/mp2024_01.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	 <Item>
+      <filename>dlc_mp2024_01CRC:/common/data/levels/gta5/vehicles.meta</filename>
+      <fileType>VEHICLE_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01CRC:/common/data/ai/vehiclelayouts.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mp2024_01CRC:/common/data/shop_vehicle.meta</filename>
+      <fileType>VEHICLE_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mp2024_01CRC:/common/data/contentunlocks.meta</filename>
+      <fileType>CONTENT_UNLOCKING_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01CRC:/common/data/handling.meta</filename>
+      <fileType>HANDLING_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mp2024_01:/common/data/carcols.meta</filename>
+      <fileType>CARCOLS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mp2024_01:/common/data/carvariations.meta</filename>
+      <fileType>VEHICLE_VARIATION_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/vehlivery5_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/paragon3_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/envisage_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/coquette5_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/vorschlaghammer_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/poldominator10_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/eurosX32_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/yosemite1500_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/dominator10_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/castigator_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/pipistrello_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/polgreenwood_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/niobe_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/polimpaler5_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/policet3_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/polimpaler6_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/poldorado_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/anim/cutscene/cuts_sum24_btw.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/anim/cutscene/cuts_sum24_btw_dead.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+	  <filename>dlc_mp2024_01:/%PLATFORM%/anim/cutscene/cuts_sum24_bty3.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+	  <filename>dlc_mp2024_01:/%PLATFORM%/anim/cutscene/cuts_sum24_bty4.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/anim/cutscene/cuts_sum24_bty6.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/anim/cutscene/cuts_sum24_office.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/anim/ingame/clip_anim@.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mp2024_01:/common/data/anim/clip_sets/clip_sets.xml</filename>
+      <fileType>CLIP_SETS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/data/effects/ptfx.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/audio/dlc24-1_game.dat</filename>
+      <fileType>AUDIO_GAMEDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/audio/dlc24-1_sounds.dat</filename>
+      <fileType>AUDIO_SOUNDDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/audio/dlc24-1_mix.dat</filename>
+      <fileType>AUDIO_DYNAMIXDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/audio/dlc24-1_amp.dat</filename>
+      <fileType>AUDIO_SYNTHDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+   	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/audio/dlc24-1_speech.dat</filename>
+      <fileType>AUDIO_SPEECHDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/audio/sfx/dlc_24-1</filename>
+      <fileType>AUDIO_WAVEPACK</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mp2024_01:/%PLATFORM%/audio/occlusion.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mp2024_01CRC:/common/data/ai/loadouts.meta</filename>
+      <fileType>LOADOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>	
+    <Item>
+      <filename>dlc_mp2024_01CRC:/common/data/pedpersonality.meta</filename>
+      <fileType>PED_PERSONALITY_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mp2024_01CRC:/common/data/pickups.meta</filename>
+      <fileType>DLC_WEAPON_PICKUPS</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mp2024_01:/common/data/shop_weapon.meta</filename>
+      <fileType>WEAPON_SHOP_INFO_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>	
+    <Item>
+      <filename>dlc_mp2024_01CRC:/common/data/ai/weapon_stunrod.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mp2024_01CRC:/common/data/ai/weaponanimations.meta</filename>
+      <fileType>WEAPON_ANIMATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mp2024_01:/common/data/mpStatsSetup.xml</filename>
+      <fileType>MP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false"/>
+      <disabled value="true"/>
+      <persistent value="false"/>
+    </Item>
+	<Item>
+	  <filename>dlc_mp2024_01CRC:/common/data/effects/peds/mp2024_01_overlays.xml</filename>
+	  <fileType>PED_OVERLAY_FILE</fileType>
+	  <overlay value="false" />
+	  <disabled value="true" />
+	  <persistent value="false" />
+	</Item>
+	<Item>
+	  <filename>dlc_mp2024_01:/%PLATFORM%/models/cdimages/mp2024_01_ped_mp_overlay_txds.rpf</filename>
+	  <fileType>RPF_FILE</fileType>
+	  <overlay value="false" />
+	  <disabled value="true" />
+	  <persistent value="true" />
+	</Item>
+    <Item>
+      <filename>dlc_mp2024_01:/common/data/effects/scriptfx.dat</filename>
+      <fileType>SCRIPTFX_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+ </dataFiles>
+  <contentChangeSets>
+	<Item>
+	  <changeSetName>MP2024_01_AUTOGEN</changeSetName>
+	  <mapChangeSetData />
+	  <filesToInvalidate />
+	  <filesToDisable />
+	  <filesToEnable>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/Prop_M24_1_Accs_01.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/m24_1_Prop_M24_1_Accs_01.ityp</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/Prop_M24_1_Accs_02.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/m24_1_Prop_M24_1_Accs_02.ityp</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/Prop_M24_1_Container.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/m24_1_Prop_M24_1_Container.ityp</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/Prop_M24_1_Deathmatch.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/m24_1_Prop_M24_1_Deathmatch.ityp</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/Prop_M24_1_Doors.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/m24_1_Prop_M24_1_Doors.ityp</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/Prop_M24_1_Facility.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/m24_1_Prop_M24_1_Facility.ityp</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/Prop_M24_1_Interiors.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/m24_1_Prop_M24_1_Interiors.ityp</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/Prop_M24_1_Lev_Des.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/m24_1_Prop_M24_1_Lev_Des.ityp</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/Prop_M24_1_Posters.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/m24_1_Prop_M24_1_Posters.ityp</Item>
+	    <Item>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/Prop_M24_1_Race.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/m24_1_Prop_M24_1_Race.ityp</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/Prop_M24_1_Trophies.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/m24_1_Prop_M24_1_Trophies.ityp</Item>
+		
+		
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/Prop_M24_1_Carrier.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/gta5/props/m24_1_Prop_M24_1_Carrier.ityp</Item>
+		
+		<Item>dlc_mp2024_01:/common/data/weaponArchetypes.meta</Item>
+		<Item>dlc_mp2024_01:/common/data/interiorProxies.meta</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/models/cdimages/weapons.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/models/cdimages/mp2024_01_female.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/models/cdimages/mp2024_01_female_p.rpf</Item>
+		<Item>dlc_mp2024_01CRC:/common/data/mp_f_freemode_01_mp2024_01_shop.meta</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/models/cdimages/mp2024_01_male.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/models/cdimages/mp2024_01_male_p.rpf</Item>
+		<Item>dlc_mp2024_01CRC:/common/data/mp_m_freemode_01_mp2024_01_shop.meta</Item>
+		<Item>dlc_mp2024_01:/common/data/effects/peds/first_person.meta</Item>
+		<Item>dlc_mp2024_01CRC:/common/data/pedalternatevariations.meta</Item>
+		<Item>dlc_mp2024_01:/common/data/effects/peds/first_person_alternates.meta</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/anim/creaturemetadata.rpf</Item>
+        <Item>dlc_mp2024_01:/%PLATFORM%/anim/expressions.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/gta5/vehicles/mp2024_01.rpf</Item>
+		<Item>dlc_mp2024_01CRC:/common/data/levels/gta5/vehicles.meta</Item>
+		<Item>dlc_mp2024_01CRC:/common/data/ai/vehiclelayouts.meta</Item>
+		<Item>dlc_mp2024_01CRC:/common/data/shop_vehicle.meta</Item>
+		<Item>dlc_mp2024_01CRC:/common/data/handling.meta</Item>
+		<Item>dlc_mp2024_01:/common/data/carcols.meta</Item>		
+		<Item>dlc_mp2024_01:/common/data/carvariations.meta</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/models/cdimages/peds/mp2024_01.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/models/cdimages/peds/mp2024_01_p.rpf</Item>
+		<Item>dlc_mp2024_01:/common/data/peds.meta</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/vehlivery5_mods.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/paragon3_mods.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/poldorado_mods.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/niobe_mods.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/envisage_mods.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/coquette5_mods.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/vorschlaghammer_mods.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/poldominator10_mods.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/eurosX32_mods.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/yosemite1500_mods.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/dominator10_mods.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/castigator_mods.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/pipistrello_mods.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/polgreenwood_mods.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/polimpaler5_mods.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/policet3_mods.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/levels/mp2024_01/vehiclemods/polimpaler6_mods.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/anim/cutscene/cuts_sum24_btw.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/anim/cutscene/cuts_sum24_btw_dead.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/anim/cutscene/cuts_sum24_bty3.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/anim/cutscene/cuts_sum24_bty4.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/anim/cutscene/cuts_sum24_bty6.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/anim/cutscene/cuts_sum24_office.rpf</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/anim/ingame/clip_anim@.rpf</Item>
+		<Item>dlc_mp2024_01:/common/data/anim/clip_sets/clip_sets.xml</Item>
+		<Item>dlc_mp2024_01:/common/data/dlctext.meta</Item>
+		<Item>dlc_mp2024_01:/common/data/overlayinfo.xml</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/data/effects/ptfx.rpf</Item>
+	 	<Item>dlc_mp2024_01:/%PLATFORM%/audio/dlc24-1_game.dat</Item>
+        <Item>dlc_mp2024_01:/%PLATFORM%/audio/dlc24-1_sounds.dat</Item>
+        <Item>dlc_mp2024_01:/%PLATFORM%/audio/dlc24-1_mix.dat</Item>
+        <Item>dlc_mp2024_01:/%PLATFORM%/audio/dlc24-1_amp.dat</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/audio/dlc24-1_speech.dat</Item>
+        <Item>dlc_mp2024_01:/%PLATFORM%/audio/sfx/dlc_24-1</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/audio/occlusion.rpf</Item>
+		<Item>dlc_mp2024_01:/common/data/shop_weapon.meta</Item>
+		<Item>dlc_mp2024_01CRC:/common/data/ai/loadouts.meta</Item>		
+		<Item>dlc_mp2024_01CRC:/common/data/ai/weapon_stunrod.meta</Item>
+		<Item>dlc_mp2024_01CRC:/common/data/ai/weaponanimations.meta</Item>			
+		<Item>dlc_mp2024_01CRC:/common/data/pedpersonality.meta</Item>		
+		<Item>dlc_mp2024_01CRC:/common/data/pickups.meta</Item>			
+		<Item>dlc_mp2024_01:/common/data/mpStatsSetup.xml</Item>
+		<Item>dlc_mp2024_01CRC:/common/data/effects/peds/mp2024_01_overlays.xml</Item>
+		<Item>dlc_mp2024_01:/%PLATFORM%/models/cdimages/mp2024_01_ped_mp_overlay_txds.rpf</Item>
+		<Item>dlc_mp2024_01:/common/data/effects/scriptfx.dat</Item>
+ </filesToEnable>
+	 <txdToLoad />
+	 <txdToUnload />
+	 <residentResources />
+	 <unregisterResources />
+	 <requiresLoadingScreen value="false" />
+	</Item>
+	<Item>
+	  <changeSetName>MP2024_01_UNLOCKS_AUTOGEN</changeSetName>
+	  <mapChangeSetData />
+	  <filesToInvalidate />
+	  <filesToDisable />
+	  <filesToEnable>
+        <Item>dlc_mp2024_01CRC:/common/data/contentunlocks.meta</Item>
+	  </filesToEnable>
+	  <txdToLoad />
+	  <txdToUnload />
+	  <residentResources />
+	  <unregisterResources />
+	  <requiresLoadingScreen value="false" />
+	</Item>
+	<Item>
+	  <changeSetName>MP2024_01_MAP_UPDATE</changeSetName>
+	  <mapChangeSetData>
+		<Item>
+		  <associatedMap>MO_JIM_L11</associatedMap>
+		  <filesToInvalidate />
+		  <filesToDisable />
+		  <filesToEnable>
+		  	<Item>dlc_mp2024_01:/%PLATFORM%/levels/gta5/mp2024_01_additions/mp2024_01_additions.rpf</Item>
+			<Item>dlc_mp2024_01:/%PLATFORM%/levels/gta5/mp2024_01_additions/mp2024_01_additions_metadata.rpf</Item>
+			<Item>dlc_mp2024_01:/%PLATFORM%/levels/gta5/interiors/m24_1_dlc_int_01.rpf</Item>
+			<Item>dlc_mp2024_01:/%PLATFORM%/levels/gta5/interiors/m24_1_dlc_int_carrier.rpf</Item>
+			<Item>dlc_mp2024_01:/%PLATFORM%/levels/gta5/interiors/int_placement_m24_1.rpf</Item>
+		  </filesToEnable>
+		  </Item>
+		</mapChangeSetData>
+        <txdToLoad />
+        <txdToUnload />
+        <residentResources />
+        <unregisterResources />
+		<requiresLoadingScreen value="true" />
+		<loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+		<useCacheLoader value="true" />
+	</Item>
+	<Item>
+	  <changeSetName>MP2024_01_MAP_UPDATE_NAVMESH_ONLY</changeSetName>
+	  <mapChangeSetData>
+	    <Item>
+		  <associatedMap>MO_JIM_L11</associatedMap>
+		  <filesToInvalidate />
+		  <filesToDisable />
+		  <filesToEnable>
+		    <Item>dlc_mp2024_01:/%PLATFORM%/levels/gta5/navmeshes.rpf</Item>
+		  </filesToEnable>
+		  <txdToLoad />
+		  <txdToUnload />
+		  <residentResources />
+		  <unregisterResources />
+	    </Item>
+	  </mapChangeSetData>
+  	  <filesToInvalidate />
+	  <filesToDisable />
+	  <filesToEnable />
+	  <txdToLoad />
+	  <txdToUnload />
+	  <residentResources />
+	  <unregisterResources />
+	  <requiresLoadingScreen value="true" />
+	  <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+	  <useCacheLoader value="true" />
+    </Item>		
+ </contentChangeSets>
+ <patchFiles />
+</CDataFileMgr__ContentsOfDataFileXml>

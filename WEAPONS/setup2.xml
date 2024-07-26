@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SSetupData>
+  <deviceName>dlc_MP2024_01</deviceName>
+  <datFile>content.xml</datFile>
+  <timeStamp>08/03/2023 12:00:00</timeStamp>
+  <nameHash>MP2024_01</nameHash>
+  <contentChangeSets />
+  <contentChangeSetGroups>
+    <Item>
+      <NameHash>GROUP_STARTUP</NameHash>
+      <ContentChangeSets>
+        <Item>MP2024_01_AUTOGEN</Item>
+        <Item>MP2024_01_UNLOCKS_AUTOGEN</Item>
+      </ContentChangeSets>
+    </Item>
+    <Item>
+      <NameHash>GROUP_MAP</NameHash>
+      <ContentChangeSets>
+        <Item>MP2024_01_MAP_UPDATE</Item>
+        <Item>MP2024_01_MAP_UPDATE_NAVMESH_ONLY</Item>
+      </ContentChangeSets>
+    </Item>
+  </contentChangeSetGroups>
+  <startupScript />
+  <scriptCallstackSize value="0" />
+  <type>EXTRACONTENT_COMPAT_PACK</type>
+  <order value="48" />
+  <minorOrder value="0" />
+  <isLevelPack value="false" />
+  <dependencyPackHash />
+  <requiredVersion />
+  <subPackCount value="0" />
+</SSetupData>
